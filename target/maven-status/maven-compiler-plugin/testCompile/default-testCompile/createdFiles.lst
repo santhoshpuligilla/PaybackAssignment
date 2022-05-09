@@ -1,4 +1,6 @@
 pageObjects\CouponsPage.class
+testRunner\BaseClass.class
 pageObjects\PageBase.class
 testRunner\TestRun.class
 pageObjects\HomePage.class
+stepDefinitions\StepsCouponsActivation.class

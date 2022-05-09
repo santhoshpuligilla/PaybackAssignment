@@ -9,7 +9,7 @@ import org.junit.runner.RunWith;
         features = ".//Features/PaybackCoupons.feature",
         glue = "stepDefinitions",
         plugin = {"pretty",
-                  "html:test-output"}
+                  "html:test-output.html"}
 )
 
 public class TestRun {
