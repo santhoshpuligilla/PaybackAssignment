@@ -32,14 +32,16 @@
 **Instructions to execute**
 
 1.	To install appium on your PC
-Ref: https://appium.io/docs/en/about-appium/getting-started/?lang=en#installing-appium
-o	npm install -g appium
+
+      Ref: https://appium.io/docs/en/about-appium/getting-started/?lang=en#installing-appium
+      
+      o	npm install -g appium
 
 2.	To install adb platform-tools in PC
-Ref: https://developer.android.com/studio/releases/platform-tools
+    Ref: https://developer.android.com/studio/releases/platform-tools
 
 3.	On a new terminal, clone the Automation project to your local machine
-o	git clone https://github.com/santhoshpuligilla/PaybackAssignment.git
+    o	git clone https://github.com/santhoshpuligilla/PaybackAssignment.git
 
 4.	Navigate to the Project folder and install the dependencies
 o	cd PaybackAssignment
